@@ -13,7 +13,7 @@ A lightweight, reusable Role-Based Access Control (RBAC) SDK for managing roles 
 
 **Installation**
 1. Install the SDK via npm:
- ```npm install permify```
+ ```npm install permify-sdk```
 
 **Usage**
 1. Here’s how to get started with the RBAC SDK:
